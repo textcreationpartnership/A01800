@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The arke of noah for the Londoners that remaine in the cittie to enter in, with their families, to b
+
+1. AN EPISTLE TO
+the afflicted Citie of London.
+
 #####Body#####
-The arke of noah for the Londoners that remaine in the cittie to enter in, with their families, to b
+
+1. THE ARKE OF
+NOAH.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
